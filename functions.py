@@ -1,6 +1,9 @@
 # Here are some functions that you can fill in to make them work.
 # Replace the "raise NotImplementedError" line with the correct code!
-   
+
+def hello_world():
+    print('Hello World')
+
 def print_the_instructors_name():
     raise NotImplementedError
 
